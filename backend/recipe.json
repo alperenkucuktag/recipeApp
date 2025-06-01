@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "recipeName": "Mercimek",
+    "category": "Pasta",
+    "recipeTime": 45,
+    "servingSuggestion": "4 servings",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onion",
+      "garlic",
+      "olive oil",
+      "basil"
+    ],
+    "instructions": "Cook spaghetti. Sauté beef with onion and garlic. Add tomato sauce and basil. Simmer. Serve over pasta.",
+    "image": "https://picsum.photos/seed/spaghetti/400/300"
+  },
+  {
+    "id": 2,
+    "recipeName": "Chicken Curry",
+    "category": "Main Course",
+    "recipeTime": 50,
+    "servingSuggestion": "4 servings",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "garlic",
+      "ginger",
+      "tomato",
+      "curry powder",
+      "coconut milk"
+    ],
+    "instructions": "Sauté onion, garlic, and ginger. Add chicken. Add tomatoes and curry powder. Pour in coconut milk and simmer.",
+    "image": "https://picsum.photos/seed/curry/400/300"
+  },
+  {
+    "id": 3,
+    "recipeName": "Greek Salad",
+    "category": "Salad",
+    "recipeTime": 15,
+    "servingSuggestion": "2 servings",
+    "ingredients": [
+      "cucumber",
+      "tomato",
+      "feta cheese",
+      "olives",
+      "red onion",
+      "olive oil",
+      "oregano"
+    ],
+    "instructions": "Chop vegetables. Mix in a bowl. Add feta and olives. Drizzle with olive oil and oregano.",
+    "image": "https://picsum.photos/seed/salad/400/300"
+  },
+  {
+    "id": 4,
+    "recipeName": "Pancakes",
+    "category": "Breakfast",
+    "recipeTime": 25,
+    "servingSuggestion": "3 servings",
+    "ingredients": [
+      "flour",
+      "milk",
+      "eggs",
+      "sugar",
+      "baking powder",
+      "salt",
+      "butter"
+    ],
+    "instructions": "Mix dry and wet ingredients separately. Combine. Pour on pan and cook both sides until golden.",
+    "image": "https://picsum.photos/seed/pancakes/400/300"
+  },
+  {
+    "id": 5,
+    "recipeName": "Guacamole",
+    "category": "Appetizer",
+    "recipeTime": 10,
+    "servingSuggestion": "2 servings",
+    "ingredients": ["avocado", "lime", "onion", "cilantro", "salt", "tomato"],
+    "instructions": "Mash avocado. Mix in chopped onion, tomato, cilantro, and lime juice. Season with salt.",
+    "image": "https://picsum.photos/seed/guacamole/400/300"
+  },
+  {
+    "id": 6,
+    "recipeName": "Beef Tacos",
+    "category": "Main Course",
+    "recipeTime": 30,
+    "servingSuggestion": "4 servings",
+    "ingredients": [
+      "taco shells",
+      "ground beef",
+      "lettuce",
+      "cheddar cheese",
+      "sour cream",
+      "salsa"
+    ],
+    "instructions": "Cook beef with seasoning. Fill taco shells with meat and toppings.",
+    "image": "https://picsum.photos/seed/tacos/400/300"
+  },
+  {
+    "id": 7,
+    "recipeName": "Tomato Soup",
+    "category": "Soup",
+    "recipeTime": 35,
+    "servingSuggestion": "3 servings",
+    "ingredients": [
+      "tomatoes",
+      "onion",
+      "garlic",
+      "vegetable broth",
+      "cream",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Sauté onion and garlic. Add tomatoes and broth. Simmer. Blend and add cream. Season to taste.",
+    "image": "https://picsum.photos/seed/soup/400/300"
+  },
+  {
+    "id": 8,
+    "recipeName": "Chocolate Brownies",
+    "category": "Dessert",
+    "recipeTime": 40,
+    "servingSuggestion": "6 servings",
+    "ingredients": [
+      "cocoa powder",
+      "flour",
+      "sugar",
+      "eggs",
+      "butter",
+      "vanilla extract"
+    ],
+    "instructions": "Mix ingredients. Pour into a baking dish. Bake until firm. Cool before cutting.",
+    "image": "https://picsum.photos/seed/brownies/400/300"
+  },
+  {
+    "id": 9,
+    "recipeName": "Caesar Salad",
+    "category": "Salad",
+    "recipeTime": 20,
+    "servingSuggestion": "2 servings",
+    "ingredients": [
+      "romaine lettuce",
+      "croutons",
+      "parmesan",
+      "Caesar dressing",
+      "chicken breast (optional)"
+    ],
+    "instructions": "Toss lettuce with dressing. Top with croutons, cheese, and grilled chicken if desired.",
+    "image": "https://picsum.photos/seed/caesar/400/300"
+  },
+  {
+    "id": 10,
+    "recipeName": "Vegetable Stir Fry",
+    "category": "Vegetarian",
+    "recipeTime": 25,
+    "servingSuggestion": "3 servings",
+    "ingredients": [
+      "broccoli",
+      "carrot",
+      "bell pepper",
+      "soy sauce",
+      "garlic",
+      "ginger",
+      "oil"
+    ],
+    "instructions": "Heat oil. Stir fry vegetables with garlic and ginger. Add soy sauce and cook briefly.",
+    "image": "https://picsum.photos/seed/stirfry/400/300"
+  },
+  {
+    "id": "63625714-b251-48a0-8d79-f9907b835296",
+    "recipeName": "Mercimeka",
+    "category": "Pasta",
+    "recipeTime": 45,
+    "servingSuggestion": "4 servings",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onion",
+      "garlic",
+      "olive oil",
+      "basil"
+    ],
+    "instructions": "Cook spaghetti. Sauté beef with onion and garlic. Add tomato sauce and basil. Simmer. Serve over pasta.",
+    "image": "https://picsum.photos/seed/spaghetti/400/300"
+  }
+]
